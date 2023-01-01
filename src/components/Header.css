@@ -1,0 +1,49 @@
+.heading {
+    color: black;
+    text-align: center;
+    background-color: aliceblue;
+    margin: 2px 6px;
+    padding: 0;
+    border-color: azure;
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+.budget-numbers {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.budget {
+    display: flex;
+    background-color: aquamarine;
+    margin: 0 10px;
+    padding: 0 20px;
+}
+
+.remaining {
+    display: flex;
+    background-color: aquamarine;
+    margin: 0 10px;
+    padding: 0 20px;
+}
+
+.spent-so-far {
+    display: flex;
+    background-color: aquamarine;
+    margin: 0 10px;
+    padding: 0 20px;
+
+}
+
+.edit-button {
+    color: white;
+    background-color: rgb(4, 116, 207);
+    margin:9px 6px;
+    padding: 0 20px;
+}
+.heading-labels{
+    margin-right: 5px;
+}
+
